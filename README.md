@@ -28,4 +28,4 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/professionaldev527/react-todolist-browser-localstorage.git](https://github.com/professionaldev527/react-todolist-browser-localstorage.git)
+   git clone https://github.com/professionaldev527/react-todolist-browser-localstorage.git
